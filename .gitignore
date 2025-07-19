@@ -1,0 +1,21 @@
+# Pliki pomocnicze LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# Pliki tymczasowe edytorów
+*~
+*.swp
+
